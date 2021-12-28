@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/buildspace-solana/static/css/main.46feee76.chunk.css",
+    "main.js": "/buildspace-solana/static/js/main.8c151967.chunk.js",
+    "main.js.map": "/buildspace-solana/static/js/main.8c151967.chunk.js.map",
+    "runtime-main.js": "/buildspace-solana/static/js/runtime-main.f16cf421.js",
+    "runtime-main.js.map": "/buildspace-solana/static/js/runtime-main.f16cf421.js.map",
+    "static/js/2.967f73c0.chunk.js": "/buildspace-solana/static/js/2.967f73c0.chunk.js",
+    "static/js/2.967f73c0.chunk.js.map": "/buildspace-solana/static/js/2.967f73c0.chunk.js.map",
+    "index.html": "/buildspace-solana/index.html",
+    "static/css/main.46feee76.chunk.css.map": "/buildspace-solana/static/css/main.46feee76.chunk.css.map",
+    "static/js/2.967f73c0.chunk.js.LICENSE.txt": "/buildspace-solana/static/js/2.967f73c0.chunk.js.LICENSE.txt",
+    "static/media/twitter-logo.d89d9a86.svg": "/buildspace-solana/static/media/twitter-logo.d89d9a86.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f16cf421.js",
+    "static/js/2.967f73c0.chunk.js",
+    "static/css/main.46feee76.chunk.css",
+    "static/js/main.8c151967.chunk.js"
+  ]
+}
